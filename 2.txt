@@ -1,0 +1,2 @@
+A robot is an autonomous or semi-autonomous machine that interacts with its physical environment through sensors, processors, and actuators. Unlike ordinary machines, robots can often perceive, decide, and act without continuous human intervention. They are used in a vast range of fields—from building cars and performing delicate surgeries to exploring Mars and cleaning homes—enhancing efficiency, safety, and capabilities beyond human limits. The core goal of robotics is to create machines that can assist, replace, or extend human effort in meaningful ways.
+

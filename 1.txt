@@ -1,0 +1,2 @@
+A robot is a programmable machine designed to perform tasks automatically. It combines a physical structure (its body and moving parts) with a computerized brain that processes information from its sensors to guide its actions. Robots excel at jobs that are dangerous, highly repetitive, or require extreme precision for humans. They are widely used in manufacturing, logistics, surgery, and exploration, and are increasingly becoming autonomous, capable of operating in complex environments without direct human control.
+
