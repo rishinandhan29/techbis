@@ -1,3 +1,5 @@
+#Run the code by using the command "streamlit run plagiarism_app.py" in VS Code
+
 import os
 import pdfplumber
 from docx import Document
@@ -390,7 +392,6 @@ def process_assignments():
                 feedback = generate_feedback_code(f, risk_level)
             st.markdown(feedback)
             st.markdown("---")
-
 
 if _name_ == "_main_":
     if st.button("🚀 Start Analysis"):
